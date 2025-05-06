@@ -8,20 +8,11 @@ Purchased for the Rust Belt Linen Project through Fiberrevolution and developed 
 
 Flaxseed growing is the essential first step in the linen making process and in 1731 the British Parliament permitted shipment of flaxseed and other colonial produce to Ireland and stimulated trade with a bounty payment on flaxseed from 1733. [^1] 
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+## British Atlantic Trade
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+.ve-map Q93195 right
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+Trade in Ulster a province in Ireland, was supported by the Westminister Parliment in bounties and subsidies. Incentives also were supported by the Dublin Parliments and Linen Board enabling ships to reach the port cities and inland towns of the American colonies. [^2]
 
-## Chitwan National Park, Nepal
-
-.ve-map Q1075023 right
-
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
-
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
-
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
-
-[^1]:  MacMaster, Richard. (2009). Scotch-Irish Merchants in Colonial America. Ulster Historical Foundation.
+[^1]: MacMaster, Richard. (2009). Scotch-Irish Merchants in Colonial America. Ulster Historical Foundation.
+[^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonia America. Ulster Historical Foundation.
