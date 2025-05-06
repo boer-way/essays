@@ -11,7 +11,7 @@ Flax growing is the essential first step in the linen making process. In 1731 th
 ## British Atlantic Trade
 
 .ve-map Q93195 right
-This trade support bolstered the economy of Ulster a province in Ireland. The Westminister Parliment provide trade bounties and subsidies. Financial Incentives also were provided by the Dublin Parliment and Linen Board all enabling ships to reach the port cities and inland towns of the American colonies. [^2]
+This trade support bolstered the economy of Ulster a province in Ireland. The Westminister Parliment provide trade bounties and subsidies to support the flax trade. Financial Incentives also were provided by the Dublin Parliment and Linen Board all enabling ships to reach the port cities and inland towns of the American colonies. [^2]
 
 [^1]: Rustbeltfibershed 
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonia America. Ulster Historical Foundation.
