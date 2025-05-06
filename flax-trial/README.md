@@ -6,7 +6,7 @@ Purchased for the Rust Belt Linen Project through Fiberrevolution and developed 
 
 .ve-media wc:Linum_usitatissimum_kz02.jpg right
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+Flaxseed growing is the essential first step in the linen making process and in 1731 the British Parliament permitted shipment of flaxseed and other colonial produce to Ireland and stimulated trade with a bounty payment on flaxseed from 1733. [^1] 
 
 This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
 
@@ -24,3 +24,4 @@ An alternative to using a Wikidata identifier for map positioning is to use regu
 
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
+[^1]:  MacMaster, Richard. (2009). Scotch-Irish Merchants in Colonial America. Ulster Historical Foundation.
