@@ -1,6 +1,6 @@
 # Flax-Trial "Linore Seed"
 
-Purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University Linore is a dual variey seed (fiber and oil seed)! This seed was grown in partnership with Cold Springs Organice is Montant and is the only fiber flax grown at the commercial scale in the USA! [ ^1 ]
+Purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University Linore is a dual variey seed (fiber and oil seed)! This seed was grown in partnership with Cold Springs Organice is Montant and is the only fiber flax grown at the commercial scale in the USA! [^1]
 
 ## Flax in America
 
@@ -14,5 +14,5 @@ Flaxseed growing is the essential first step in the linen making process and in 
 
 Trade in Ulster a province in Ireland, was supported by the Westminister Parliment in bounties and subsidies. Incentives also were supported by the Dublin Parliments and Linen Board enabling ships to reach the port cities and inland towns of the American colonies. [^2]
 
-[^1]: Rustbeltfibershed https://rustbeltfibershed.com
+[^1]: Rustbeltfibershed 
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonia America. Ulster Historical Foundation.
