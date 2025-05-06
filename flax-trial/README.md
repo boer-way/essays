@@ -2,10 +2,9 @@
 
 Purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University Linore is a dual variey seed (fiber and oil seed)! This seed was grown in partnership with Cold Springs Organice is Montant and is the only fiber flax grown at the commercial scale in the USA!
 
+## Flax in America
 
-## Au
-
-.ve-media wc:Linum_usitatissimum_close_ to_ a_ little_ tree_ in_ a_ garden.jpg right
+.ve-media wc:Linum_usitatissimum_kz02.jpg right
 
 The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
