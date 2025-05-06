@@ -6,13 +6,12 @@ Purchased for the Rust Belt Linen Project through Fiberrevolution and developed 
 
 .ve-media wc:Linum_usitatissimum_kz02.jpg right
 
-Flaxseed growing is the essential first step in the linen making process. In 1731 the British Parliament permitted shipment of flaxseed and other colonial produce to Ireland and stimulated trade with a bounty payment on flaxseed from 1733. 
+Flax growing is the essential first step in the linen making process. In 1731 the British Parliament permitted shipment of flaxseed and other colonial produce to Ireland and stimulated trade with a bounty payment on flaxseed from 1733. 
 
 ## British Atlantic Trade
 
 .ve-map Q93195 right
-
-Trade in Ulster a province in Ireland, was supported by the Westminister Parliment in bounties and subsidies. Incentives also were supported by the Dublin Parliments and Linen Board enabling ships to reach the port cities and inland towns of the American colonies. [^2]
+This trade support bolstered the economy of Ulster a province in Ireland. The flax trade was supported by the Westminister Parliment in bounties and subsidies. Financial Incentives also were provided by the Dublin Parliment and Linen Board enabling ships to reach the port cities and inland towns of the American colonies. [^2]
 
 [^1]: Rustbeltfibershed 
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonia America. Ulster Historical Foundation.
