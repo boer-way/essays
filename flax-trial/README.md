@@ -1,6 +1,6 @@
 # Flax-Trial "Linore Seed"
 
-Purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University Linore is a dual variey seed (fiber and oil seed)! This seed was grown in partnership with Cold Springs Organice is Montant and is the only fiber flax grown at the commercial scale in the USA! [^1]
+Purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University Linore is a dual variey seed (fiber and oil seed)! This seed was grown in partnership with Cold Springs Organice is Montana and is the only fiber flax grown at the commercial scale in the USA! [^1]
 
 .ve-media wc:Linum_usitatissimum_kz02.jpg right
 
