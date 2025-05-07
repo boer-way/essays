@@ -8,9 +8,8 @@ Purchased for the Rust Belt Linen Project through Fiberrevolution and developed 
 
 Flax purchase and growing is the essential first step in the linen making process. 
 
-.ve-media flicker: 
+.ve-media DaveyCarsonP3_CCO.jpg
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202767016@N06/54501861599/in/dateposted" title="Davey &amp; Carsen Letterbook.pdf - 3"><img src="https://live.staticflickr.com/65535/54501861599_7f8ef8e483.jpg" width="386" height="500" alt="Davey &amp; Carsen Letterbook.pdf - 3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## British Atlantic Trade
 
