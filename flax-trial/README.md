@@ -8,7 +8,7 @@ Purchased for the Rust Belt Linen Project through Fiberrevolution and developed 
 
 Flax purchase and growing is the essential first step in the linen making process. 
 
-.ve-media DaveyCarsonP3_CCO.jpg
+.ve-media [https://github.com/boer-way/essays/blob/main/DaveyCarsonP3_CCO.jpg](https://)
 
 
 ## British Atlantic Trade
