@@ -17,12 +17,13 @@ As MacMasters mentions government incentives provided support to the early Irish
 
 ## Cultivating Industry Development
 
-MacMasters review of literature recounts... The Linen Board, created by the Irish Parliament in 1711, further subsidized the flax growers by importing and distributing flaxseed. [4]  "Being determined to give Encouragement for the raising large Quantities of Flax in this Kingdonm,"  the "Trustees of the Linnen Manufacture" offered five bushels of foreign seed for every acre contracted to be sown in flax. [^5]  From the first the Board also paid bounties and premiums for high quality linen, supplied wheels and looms, and made grants for bleach greens and manufactories. [^6] (MacMasters, p15).
+MacMasters review of literature recounts... The Linen Board, created by the Irish Parliament in 1711, further subsidized the flax growers by importing and distributing flaxseed. [4]  "Being determined to give Encouragement for the raising large Quantities of Flax in this Kingdonm,"  the "Trustees of the Linnen Manufacture" offered five bushels of foreign seed for every acre contracted to be sown in flax. [^5]  From the first the Board also paid bounties and premiums for high quality linen, supplied wheels and looms, and made grants for bleach greens and manufactories. [^6] (MacMasters, p15).  Flaxseed expots, which were shipped only to Ireland, rose steadily and became Pennsylvania's third most impoirtant export after flour and bread, the staples of Philadelphias Eurpoean and West Indian trade. [^7].
 
 
 [^1]: Rustbeltfibershed, Pa Flax Project and the North American Linen Association.
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation.
 [^3]: McMaster, et al., (2009) 
-[^4]: Gribbon, H.D.  "The Irish Linen Board 1711-1828," in L. M Cullen and T. C. Smout, Comparative Aspects of Scottish and Irish Economic History (Edinburgh, 1977), 77-87.
+[^4]: Gribbon, H.D. (1977) "The Irish Linen Board 1711-1828," in L. M Cullen and T. C. Smout, Comparative Aspects of Scottish and Irish Economic History. Edinburgh. p 77-87.
 [^5]: Dublin Courant, November 23, 1723.
-[^6]: McConaghy, J. W., "Thomas Greer of Dungannon 1724-1808: Quaker Linen Merchant, " PhD. diss, Queens University Belfast  (1979), 6-7.
+[^6]: McConaghy, J. W., (1979). "Thomas Greer of Dungannon 1724-1808: Quaker Linen Merchant, " PhD. diss, Queens University Belfast, p6-7.
+[^7]: Egnal, Marc. (1974). "The Pennsylvania Economy, 1748-1762: An Analysis of Short-Run Fluctuations in the Context of Long-Run Changes in the Atlantic Trading Community, " PhD. dissertation, University of Wisconsin p63. Cf Hood, "Flax Seed," p154.
