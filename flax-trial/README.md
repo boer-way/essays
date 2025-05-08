@@ -5,7 +5,7 @@ Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolut
 
 ## Flax in America
 
-Flax seed purchase and growing is the essential first step in the linen making process. As succinctly described in R. MacMaster's book ...Soctch-Irish Merchants in Colonial America (2009) "The cultivation of flax for seed made rural communities in Pennsylvania, New York and New England integral to the Ulster market. American flax seed provided the essential first step in the linen making process and the flax seed export financed the sales of Irish linen.  Mercantile families of Belfast, Londonderry and Newry shipped linen and other dried goods and sent orders to merchants in New York, Philadelphia and Baltimore for flaxseed, flour or orders for ships to be built."  [^2].  
+Flax seed purchase and growing is the essential first step in the linen making process. The historical development of the American-Scotch-Irish flax industry is succinctly described in R. MacMaster's book ...Soctch-Irish Merchants in Colonial America (2009) "The cultivation of flax for seed made rural communities in Pennsylvania, New York and New England integral to the Ulster market. American flax seed provided the essential first step in the linen making process and the flax seed export financed the sales of Irish linen.  Mercantile families of Belfast, Londonderry and Newry shipped linen and other dried goods and sent orders to merchants in New York, Philadelphia and Baltimore for flaxseed, flour or orders for ships to be built."  [^2].  
 
 .ve-media 
 
