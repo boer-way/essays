@@ -17,7 +17,7 @@ As MacMasters mentions government incentives provided support to the early Irish
 
 ## Cultivating Industry Development
 
-MacMasters review of literature recounts The Linen Board, created by the Irish Parliament in 1711, further subsidized the flax growers by importing and distributing flaxseed. [4]  "Being determined to give Encouragement for the raising large Quantities of Flax in this Kingdonm,"  the "Trustees of the Linnen Manufacture" offered five bushels of foreign seed for every acre contracted to be sown in flax. [^5].  From the first the Board also paid bounties and premiums for high quality linen, supplied wheels and looms, and made grants for bleach greens and manufactories. [^6] MacMasters, p15.
+MacMasters review of literature recounts The Linen Board, created by the Irish Parliament in 1711, further subsidized the flax growers by importing and distributing flaxseed. [4]  "Being determined to give Encouragement for the raising large Quantities of Flax in this Kingdonm,"  the "Trustees of the Linnen Manufacture" offered five bushels of foreign seed for every acre contracted to be sown in flax. [^5]  From the first the Board also paid bounties and premiums for high quality linen, supplied wheels and looms, and made grants for bleach greens and manufactories. [^6] MacMasters, p15.
 
 
 [^1]: Rustbeltfibershed, Pa Flax Project and the North American Linen Association.
