@@ -3,13 +3,11 @@
 
 Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University. is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA!  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond in support of the American flax industry.  Organizations to connect with and learn more about the initiatives to restablish American flax include the Rust Belt Fibershed, the Pennsylvania Flax Project and the North American Linen Association. [^1] .
 
-
 ## Flax in America
 
 Flax seed purchase and growing is the essential first step in the linen making process. As succinctly described in R. MacMaster's book ...Soctch-Irish Merchants in Colonial America (2009) "The cultivation of flax for seed made rural communities in Pennsylvania, New York and New England integral to the Ulster market. American flax seed provided the essential first step in the linen making process and the flax seed export financed the sales of Irish linen.  Mercantile families of Belfast, Londonderry and Newry shipped linen and other dried goods and sent orders to merchants in New York, Philadelphia and Baltimore for flaxseed, flour or orders for ships to be built."  [^2].  
 
 .ve-media 
-
 
 ## British Atlantic Trade
 
