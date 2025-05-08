@@ -6,7 +6,7 @@ Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolut
 
 ## Flax in America
 
-Flax purchase and growing is the essential first step in the linen making process. 
+Flax seed purchase and growing is the essential first step in the linen making process. 
 
 .ve-media 
 
