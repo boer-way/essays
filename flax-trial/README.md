@@ -1,7 +1,7 @@
 # Flax-Trial "Linore Seed"
 .ve-media wc:Linum_usitatissimum_kz02.jpg right
 
-Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University. is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA!  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond to support the rebirth of the flax industry.  Organizations to connect with and learn more about the flax market include the Rust Belt Fibershed, Pa Flax Project and the North American Linen Association. [^1] .
+Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University. is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA!  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond to support the rebirth of the flax industry.  Organizations to connect with and learn more about the initiatives to restablish the flax market include the Rust Belt Fibershed, Pa Flax Project and the North American Linen Association. [^1] .
 
 
 ## Flax in America
