@@ -1,7 +1,7 @@
 # Flax-Trial "Linore Seed"
 .ve-media wc:Linum_usitatissimum_kz02.jpg right
 
-Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA!  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond in support of the American flax industry.  Organizations to connect with and learn more about the initiatives to restablish American flax include the Rust Belt Fibershed, the Pennsylvania Flax Project and the North American Linen Association. [^1] .
+Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA! [^1].  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond in support of the American flax industry.  Organizations to connect with and learn more about the initiatives to restablish American flax include the Rust Belt Fibershed, the Pennsylvania Flax Project and the North American Linen Association.
 
 ## Flax in America
 
@@ -21,16 +21,16 @@ MacMasters review of literature recounts... The Linen Board, created by the Iris
 
 
 
-As early as 1746 Hugh Davey and Samuel Carson, and several others, had established a base at Charlestown, Cecil County, Maryland where they could "purchase wheat, flour & flaxseed [ ^8] (MacMaster p201).  From 1745-1750 Davey & Carson, merchants of falxseed, flour, wheat, rum and general dry goods documented shipments of flaxseed in hogsheads in their letterbook correspondence [^9]. MacMaster's book recounts the shipments  "Since a hogshead contained seven bushels of seed,  Philadelphia shipped roughly 3000 hogshead in 1749, 6000 in 1750 and 10,000 in 1751 (p69-70). [^ 10].  With the increase of imports of American flaxseed to Ireland, and Irish linen to the colonies, advertisements in the Belfast News Letter, the only newspaper in the north for ships sailing for New Castle, Philadelphia or New York comonly extolled the ships advantages for passengers, redemptioners and servants (MacMaster p70).
+As early as 1746 Hugh Davey and Samuel Carson, and several others, had established a base at Charlestown, Cecil County, Maryland where they could "purchase wheat, flour & flaxseed [^8] (MacMaster p201).  From 1745-1750 Davey & Carson, merchants of falxseed, flour, wheat, rum and general dry goods documented shipments of flaxseed in hogsheads in their letterbook correspondence [^9]. MacMaster's book recounts the shipments  "Since a hogshead contained seven bushels of seed,  Philadelphia shipped roughly 3000 hogshead in 1749, 6000 in 1750 and 10,000 in 1751 (p69-70). [^10].  With the increase of imports of American flaxseed to Ireland, and Irish linen to the colonies, advertisements in the Belfast News Letter, the only newspaper in the north for ships sailing for New Castle, Philadelphia or New York comonly extolled the ships advantages for passengers, redemptioners and servants (MacMaster p70).
 
 
-[^1]: Rustbeltfibershed, Pa Flax Project and the North American Linen Association.
+[^1]: Rustbeltfibershed 
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation.
 [^3]: McMaster, et al., (2009) 
 [^4]: Gribbon, H.D. (1977) "The Irish Linen Board 1711-1828," in L. M Cullen and T. C. Smout, Comparative Aspects of Scottish and Irish Economic History. Edinburgh. p 77-87.
 [^5]: Dublin Courant, November 23, 1723.
 [^6]: McConaghy, J. W., (1979). "Thomas Greer of Dungannon 1724-1808: Quaker Linen Merchant, " PhD. diss, Queens University Belfast, p6-7.
 [^7]: Egnal, Marc. (1974). "The Pennsylvania Economy, 1748-1762: An Analysis of Short-Run Fluctuations in the Context of Long-Run Changes in the Atlantic Trading Community, " PhD. dissertation, University of Wisconsin p63. Cf Hood, "Flax Seed," p154.
-[^8]:Johnston, George. (1881). History of Cecil County, Marlyand. (Elkton, MD) p271.
+[^8]: Johnston, George. (1881). History of Cecil County, Marlyand. (Elkton, MD) p271.
 [^9]: Davey & Carson, Philadelphia, Pa., letterbook, 1745-1750, Manuscript Division, Library of Congress, Washington, D.C. 
 [^10]: White, The Beekmans of New York., p248.
