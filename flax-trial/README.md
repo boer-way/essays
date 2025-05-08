@@ -25,4 +25,4 @@ MacMasters review of literature recounts The Linen Board, created by the Irish P
 [^3]: McMaster, et al., (2009) 
 [^4]: Gribbon, H.D.  "The Irish Linen Board 1711-1828," in L. M Cullen and T. C. Smout, Comparative Aspects of Scottish and Irish Economic History (Edinburgh, 1977), 77-87.
 [^5]: Dublin Courant, November 23, 1723.
-[^6]: McConaghy, J. W., "Thomas Greer of Dungannon 1724-1808: Quaker Linen Merchant, " PhD. diss, Queens University Belfast (1979), 6-7.
+[^6]: McConaghy, J. W., "Thomas Greer of Dungannon 1724-1808: Quaker Linen Merchant, " PhD. diss, Queens University Belfast  (1979), 6-7.
