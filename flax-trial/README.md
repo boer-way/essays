@@ -19,4 +19,4 @@ As MacMasters mentions government incentives provided support to the early Irish
 
 [^1]: Rustbeltfibershed, Pa Flax Project and the North American Linen Association.
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation.
-[^3] McMaster, et al., (2009) 
+[^3]:  McMaster, et al., (2009) 
