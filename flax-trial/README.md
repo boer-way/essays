@@ -6,7 +6,7 @@ Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolut
 
 ## Flax in America
 
-Flax seed purchase and growing is the essential first step in the linen making process. 
+Flax seed purchase and growing is the essential first step in the linen making process. As succinctly described in R. MacMaster's book ...Soctch-Irish Merchants in Colonial America... "The cultivation of flax for seed made rural communities in Pennsylvania, New York and New England integral to the Ulster market. American flax seed provided the essential first step in the linen making process and the flax seed export financed the sales of Irish linen.  Mercantile families of Belfast, Londonderry and Newry shipped linen and other dried goods and sent orders to merchants in New York, Philadelphia and Baltimore for flaxseed, flour or orders for ships to be built."  [^2].  
 
 .ve-media 
 
@@ -15,7 +15,8 @@ Flax seed purchase and growing is the essential first step in the linen making p
 
 .ve-map Q93195 right
 
-As succinctly described in R. MacMasters book "Scotch-Irish Merchants in Colonial America" government incentives provided support to the early Irish linen economy.  An act of the English Parliament in 1696 admitted Irish linens on favorable terms to the English market.  In 1705 the English Parliment opened the American Colonies to linen produced in Ireland (ix).  1731 the British Parliament permitted shipment of flaxseed and other colonial produce to Ireland and stimulated trade with a bounty payment on flaxseed from 1733. This trade support bolstered the economy of Ulster, a province of Ireland and American flax seed soon became to supply the entire Ulster market.(x). The Westminister Parliment provided trade bounties and subsidies to support the flax trade. The Dublin Parliment and Linen Board also proviced financial incentives (xi). Together these collective efforts  enabled ships to sail to the port cities and inland towns of the American colonies. [^2]
+As MacMasters mentions government incentives provided support to the early Irish linen economy.  An act of the English Parliament in 1696 admitted Irish linens on favorable terms to the English market.  In 1705 the English Parliment opened the American Colonies to linen produced in Ireland (ix).  1731 the British Parliament permitted shipment of flaxseed and other colonial produce to Ireland and stimulated trade with a bounty payment on flaxseed from 1733. This trade support bolstered the economy of Ulster, a province of Ireland and American flax seed soon became to supply the entire Ulster market.(x). The Westminister Parliment provided trade bounties and subsidies to support the flax trade. The Dublin Parliment and Linen Board also proviced financial incentives (xi). Together these collective efforts  enabled ships to sail to the port cities and inland towns of the American colonies. [^3]
 
 [^1]: Rustbeltfibershed, Pa Flax Project and the North American Linen Association.
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation.
+[^3] McMaster, et al., (2009) 
