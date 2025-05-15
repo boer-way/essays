@@ -1,7 +1,7 @@
 # Flax-Trial "Linore Seed"
 .ve-media wc:Linum_usitatissimum_kz02.jpg right
 
-Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA! [ ^1].  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond in support of reestablishing the American flax and linen textile industry.  Organizations to connect with and learn more about the initiatives to restablish American flax include the Rust Belt Fibershed, the Pennsylvania Flax Project and the North American Linen Association.
+Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA [ ^1].  Display flax gardens are now being grown across Pennsylvania, Ohio and beyond in support of reestablishing the American flax and linen textile industry.  Organizations to connect with and learn more about the initiatives to restablish American flax include the Rust Belt Fibershed, the Pennsylvania Flax Project and the North American Linen Association.
 
 ## Flax in America
 
@@ -26,7 +26,6 @@ Hugh Davey and Samuel Carson, and several others, had established a base at Char
 
 
 Flax was transported in a large cask or barrel typically made of wood called "hogshead" a term for a unit of measurement.  "Since a hogshead contained seven bushels of seed,  Philadelphia shipped roughly 3000 hogshead in 1749, 6000 in 1750 and 10,000 in 1751 (p69-70). [^10].   With the increase of imports of American flaxseed to Ireland, and Irish linen to the colonies, advertisements in the Belfast News Letter, the only newspaper in the north for ships sailing for New Castle, Philadelphia or New York comonly extolled the ships advantages for passengers, redemptioners and servants (MacMaster p70).  Immigrants from Ireland especially Ulster whether free, bond servant or slave, supported the flax seed and textile trade.  Between the years 1768-72, shipowners hauled 233,065 bushels of flax, becoming the single most important export to Ireland.  In the eighteenth century the domestic linen industry expanded from annual exports of less than one million to forty million yards of cloth (MacMaster, ix). With expences adjusted, shipping earnimgs for flax was more profitable than the tobacco trade (MacMaster p285).  
-
 
 [^1]: Rustbeltfibershed 2025
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation.
