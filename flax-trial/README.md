@@ -21,7 +21,7 @@ MacMasters recounts... The Linen Board, created by the Irish Parliament in 1711,
 
 .ve-media wc:Charleston,_Maryland.png  right
 
-Hugh Davey and Samuel Carson, and several others, had established a base at Charlestown, Cecil County, Maryland where they could "purchase wheat, flour & flaxseed [^8] (MacMaster p201).  From 1745-1750 Davey & Carson, merchants of falxseed, flour, wheat, rum and general dry goods, documented shipments of flaxseed in hogsheads in their letterbook correspondence [^9]. This Maryland location was in close proximity to Pennsylvania trading centers in areas such as Philadelphia, Lancaster and Shippensburg providng a gateway for trade and commerce. Development in infrastructure such as the Pennsylvania and Forbes Road further enabled trade between the eastern and western parts of the Pennsylvania colony.
+Hugh Davey and Samuel Carson, and several others, had established a base at Charlestown, Cecil County, Maryland where they could "purchase wheat, flour & flaxseed [^8] (MacMaster p201).  From 1745-1750 Davey & Carson, merchants of falxseed, flour, wheat, rum and general dry goods, documented shipments of flaxseed in hogsheads in their letterbook correspondence [^9]. This Maryland location was in close proximity to Pennsylvania trading centers in areas such as Philadelphia, Lancaster and Shippensburg providng a gateway for trade and commerce. Development in infrastructure such as the Pennsylvania and Forbes Road further enabled trade between the eastern and western parts of the Pennsylvania colony [^11].
 
 
 
@@ -38,3 +38,4 @@ Flax was transported in a container called "hogshead".  "Since a hogshead contai
 [^8]: Johnston, George. (1881). History of Cecil County, Marlyand. (Elkton, MD) p271.
 [^9]: Davey & Carson, Philadelphia, Pa., letterbook, 1745-1750, Manuscript Division, Library of Congress, Washington, D.C. 
 [^10]: White, The Beekmans of New York., p248.
+[^11]: Rootsweb The Pennsylvania Road
