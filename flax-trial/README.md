@@ -36,5 +36,5 @@ Flax was transported in a large cask or barrel typically made of wood called "ho
 [^7]: Egnal, Marc. (1974). "The Pennsylvania Economy, 1748-1762: An Analysis of Short-Run Fluctuations in the Context of Long-Run Changes in the Atlantic Trading Community, " PhD. dissertation, University of Wisconsin p63. Cf Hood, "Flax Seed," p154.
 [^8]: Johnston, George. (1881). History of Cecil County, Marlyand. (Elkton, MD) p271.
 [^9]: Davey & Carson, Philadelphia, Pa., letterbook, 1745-1750, Manuscript Division, Library of Congress, Washington, D.C. 
-[^10]: The Pennsylvania Raod https://tinyurl.com/5f6cv8fa
+[^10]: The Pennsylvania Raod https://tinyurl.com/4uary35m
 [^11]: White, The Beekmans of New York., p248.
