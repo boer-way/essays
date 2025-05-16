@@ -25,7 +25,7 @@ Hugh Davey and Samuel Carson, and several others, had established a base at Char
 
 
 
-Flax was transported in a large cask or barrel typically made of wood called "hogshead" a term for a unit of measurement.  "Since a hogshead contained seven bushels of seed,  Philadelphia shipped roughly 3000 hogshead in 1749, 6000 in 1750 and 10,000 in 1751 (p69-70).. [^11]   With the increase of imports of American flaxseed to Ireland, and Irish linen to the colonies, advertisements in the Belfast News Letter, the only newspaper in the north for ships sailing for New Castle, Philadelphia or New York comonly extolled the ships advantages for passengers, redemptioners and servants (MacMaster p70).  Immigrants from Ireland especially Ulster whether free, bond servant or slave, supported the flax seed and textile trade.  Between the years 1768-72, shipowners hauled 233,065 bushels of flax, becoming the single most important export to Ireland.  In the eighteenth century the domestic linen industry expanded from annual exports of less than one million to forty million yards of cloth (MacMaster, ix). With expences adjusted, shipping earnimgs for flax was more profitable than the tobacco trade (MacMaster p285).  
+Flax was transported in a large cask or barrel typically made of wood called "hogshead" a term for a unit of measurement [^11].  "Since a hogshead contained seven bushels of seed,  Philadelphia shipped roughly 3000 hogshead in 1749, 6000 in 1750 and 10,000 in 1751 (p69-70).. [^12]   With the increase of imports of American flaxseed to Ireland, and Irish linen to the colonies, advertisements in the Belfast News Letter, the only newspaper in the north for ships sailing for New Castle, Philadelphia or New York comonly extolled the ships advantages for passengers, redemptioners and servants (MacMaster p70).  Immigrants from Ireland especially Ulster whether free, bond servant or slave, supported the flax seed and textile trade.  Between the years 1768-72, shipowners hauled 233,065 bushels of flax, becoming the single most important export to Ireland.  In the eighteenth century the domestic linen industry expanded from annual exports of less than one million to forty million yards of cloth (MacMaster, ix). With expences adjusted, shipping earnimgs for flax was more profitable than the tobacco trade (MacMaster p285).  
 
 [^1]: Rustbeltfibershed 2025
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation.
@@ -37,4 +37,5 @@ Flax was transported in a large cask or barrel typically made of wood called "ho
 [^8]: Johnston, George. (1881). History of Cecil County, Marlyand. (Elkton, MD) p271.
 [^9]: Davey & Carson, Philadelphia, Pa., letterbook, 1745-1750, Manuscript Division, Library of Congress, Washington, D.C. 
 [^10]: The Pennsylvania Raod https://tinyurl.com/4uary35m
-[^11]: White, The Beekmans of New York., p248.
+[^11]: Put it in a Hogshead https://tinyurl.com/6kbkn2by
+[^12]: White, The Beekmans of New York., p248.
