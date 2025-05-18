@@ -5,7 +5,7 @@ Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolut
 
 ## Flax Markets
 
-The Flax plant is very versitle. Flax varities can be used for many applications and adapts well to various conditions.  Examples include textiles such as "linen fabric for clothing", building materials such as "linseed oil", sails for ships and string and also food omega rich "Flax seed". Flax grows internationally and has been used and collected for these traits for thousands of years. 
+The Flax plant is very versitle. Flax varities can be used for many applications and adapts well to various conditions.  Examples include textiles such as "linen fabric for clothing", building materials such as "linseed oil", sails for ships and string and also food omega rich "Flax seed". Flax grows internationally and has been collected and used for these applications and more for thousands of years. 
 
 ## Flax in America
 
