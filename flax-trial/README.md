@@ -3,7 +3,7 @@
 
 Linore flax seed, purchased for the Rust Belt Linen Project through Fiberrevolution and developed by Oregon State University is a dual variey seed (fiber and oil seed). This seed was grown in partnership with Cold Springs Organics in Montana and is the only fiber flax grown at the commercial scale in the USA. [^1] Display flax gardens are now being grown across Pennsylvania, Ohio and beyond in support of reestablishing the American flax and linen textile industry.  Organizations to connect with and learn more about the initiatives to restablish American flax include the Rust Belt Fibershed, the Pennsylvania Flax Project and the North American Linen Association.
 
-## Flax Markets
+## Flax Varities and Markets
 
 The Flax plant is very versitle. Flax varities can be used and processed for many applications and adapts well to various conditions.  Examples include flax grown for textiles processed and woven into "linen fabric for clothing", sails for ships, flags, tents and string. Flax oil is used in construction for material applications such as when incorporating "linseed oil".  Flax seeds for food are a omega rich powerhouse "Flax seed" provides a nutritional boost for many dietary applicaitons . Flax grows internationally and has been collected and used for these examples and more for thousands of years. 
 
