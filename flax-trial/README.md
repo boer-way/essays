@@ -33,12 +33,11 @@ Flax was transported in a large cask or barrel typically made of wood called "ho
 
 Navigation acts infulenced trade between Ireland, England and the Caribbean.  Finnished Irish linen was often shipped to the colonies via the ports of England.  Lawmakers aiming to protect the English commerce and eliminate the competition imposed duties equlivant to prohibition.  Merchant ships had many obstacles including developing tarrifs and pirating ships at times of war. Despite this pressure, the industry progressed forward and drapers, the historical cloth merchant, pushed on traveling the colonial backcounty providing shopkeepers with the merchandise of textiles in the new world. 
 
-## Todays Local Fiber Craft 
+## "Local Fiber, Weaving Stories into the Community" 
 
 .ve-media https://www.youtube.com/watch?v=5yTyM0iDl4U right
 
-[Todays Local Fiber & Craft](https://www.youtube.com/watch?v=5yTyM0iDl4U)
-
+A community of flax growers have planted seed provided by Rust Belt Fibershed in demonstration plots acorss our communities.  This WQED documentary features community artists and fiber shed members coproduced by Molly Tighe, an Archivist at WQED, and a 2025 Linen Project Cohort member. Harvesting activities and processing programs are planned across the flax growing communiy this summer reach out to Rust Belt Fibershed and the PA Flax Project to learn more.
 
 [^1]: Rustbeltfibershed (2025).
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation. p.x.
