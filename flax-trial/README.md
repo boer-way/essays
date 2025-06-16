@@ -33,6 +33,10 @@ Flax was transported in a large cask or barrel typically made of wood called "ho
 
 Navigation acts infulenced trade between Ireland, England and the Caribbean.  Finnished Irish linen was often shipped to the colonies via the ports of England.  Lawmakers aiming to protect the English commerce and eliminate the competition imposed duties equlivant to prohibition.  Merchant ships had many obstacles including developing tarrifs and pirating ships at times of war. Despite this pressure, the industry progressed forward and drapers, the historical cloth merchant, pushed on traveling the colonial backcounty providing shopkeepers with the merchandise of textiles in the new world. 
 
+## Todays Textiles
+
+.ve-media https://youtu.be/5yTyM0iDl4U?si=BANZmhHFWK3kOyZf right
+
 [^1]: Rustbeltfibershed (2025).
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation. p.x.
 [^3]: McMaster, et al.(2009). p ix-xi.  
