@@ -25,7 +25,7 @@ As MacMasters references, government incentives provided support to the early Ir
 
 MacMasters recounts... "The Linen Board, created by the Irish Parliament in 1711, further subsidized the flax growers by importing and distributing flaxseed (MacMasters, 2009, as cited in Gribbon, 1977)." [^4]  "Being determined to give Encouragement for the raising large Quantities of Flax in this Kingdonm,  the "Trustees of the Linnen Manufacture" offered five bushels of foreign seed for every acre contracted to be sown in flax (MacMaster, 2009  as cited in the Dublin Currant, 1723)." [^5]  "From the first the Board also paid bounties and premiums for high quality linen, supplied wheels and looms, and made grants for bleach greens and manufactories (MacMaster, 2009, p.15, as cited by McConaghy, 1979)." [^6]   "The board eventualy required recipiants to returen twice as much seed as they had received" (Macmaster, 2009 p16). Flax growers in Ireland traditionally sourced quality flax seed from the Baltic in areas such as Riga, Latvia but American colonists soon developed quality seed to compliment this market.  "Flaxseed exports, which were shipped only to Ireland, rose steadily and became Pennsylvania's, third most impoirtant export after flour and bread, the staples of Philadelphias European and West Indian trade (MacMaster, 2009 p.69 as cited by Engal, 1974)." [^7] 
 
-.ve-media gh: https://github.com/boer-way/media/blob/main/CharlestonMDmap.jpg right
+.ve-media gh:https://github.com/boer-way/media/blob/b9438b5b2f97bd670167f74922b66bb0d7bf50f2/CharlestonMDmap.jpg right
 
 
 
