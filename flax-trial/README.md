@@ -13,7 +13,7 @@ The Flax plant is very versatile. Flax varieties can be grown and processed for 
 
 Flax seed purchase and growing is the essential first step in the linen making process. Robert MacMaster's book ...Scotch-Irish Merchants in Colonial America (2009) is a classic study in the Colonial America period of transatlantic flax seed trade for textiles between Belfast and Baltimore; the Lower Susquehanna Valley and beyond. Quoting from MacMaster..." The cultivation of flax for seed made rural communities in Pennsylvania, New York and New England integral to the Ulster market. American flax seed provided the essential first step in the linen making process and the flax seed export financed the sales of Irish linen.  Mercantile families of Belfast, Londonderry and Newry shipped linen and other dried goods and sent orders to merchants in New York, Philadelphia and Baltimore for flaxseed, flour or orders for ships to be built." [^2]   
 
-.ve-media 
+.ve-media wc:
 
 ## British Atlantic Trade
 
@@ -25,7 +25,7 @@ As MacMasters references, government incentives provided support to the early Ir
 
 MacMasters recounts... "The Linen Board, created by the Irish Parliament in 1711, further subsidized the flax growers by importing and distributing flaxseed (MacMasters, 2009, as cited in Gribbon, 1977)." [^4]  "Being determined to give Encouragement for the raising large Quantities of Flax in this Kingdom,  the "Trustees of the Linen Manufacture" offered five bushels of foreign seed for every acre contracted to be sown in flax (MacMaster, 2009  as cited in the Dublin Currant, 1723)." [^5]  "From the first the Board also paid bounties and premiums for high quality linen, supplied wheels and looms, and made grants for bleach greens and manufactories (MacMaster, 2009, p.15, as cited by McConaghy, 1979)." [^6]   "The board eventually required recipients to return twice as much seed as they had received" (Macmaster, 2009 p16). Flax growers in Ireland traditionally sourced quality flax seed from the Baltic in areas such as Riga, Latvia but American colonists soon developed quality seed to complement this market.  "Flaxseed exports, which were shipped only to Ireland, rose steadily and became Pennsylvania's, third most important export after flour and bread, the staples of Philadelphia's European and West Indian trade (MacMaster, 2009 p.69 as cited by Engal, 1974)." [^7] 
 
-.ve-media  right
+.ve-media wc:English wine cask units.jpg right
 
 Merchants in America coordinated this new colonial flax seed export.  "Hugh Davey and Samuel Carson, and several others, had established a base at Charlestown, Cecil County, Maryland where they could purchase wheat, flour & flaxseed " (MacMaster, 2009 p201 as cited by Johnston, 1881). [^8]   "From 1745-1750 Davey & Carson, merchants of flaxseed, flour, wheat, rum and general dry goods, documented shipments of flaxseed in hogsheads in their letterbook correspondence." [^9]. This Maryland location was in close proximity to Pennsylvania trading centers in areas such as Philadelphia, Carlisle and Lancaster providing a gateway for trade and commerce. Development in infrastructure such as the Pennsylvania and Forbes Road further enabled trade between the eastern and western parts of the Pennsylvania colony [^10] .
 
