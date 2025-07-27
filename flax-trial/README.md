@@ -38,7 +38,7 @@ Navigation acts influenced trade between Ireland, England and the Caribbean.  Fi
 
 .ve-media https://www.youtube.com/watch?v=5yTyM0iDl4U right
 
-With enthusiasm a community of flax growers have planted seed provided by Rust Belt Fibershed, the PA Flax Project and others in demonstration plots across our communities.  This WQED documentary features Contemporarty Craft, community artists and fiber shed members co-produced by Molly Tighe, an Archivist at WQED, and a 2025 Linen Project Cohort member. Harvesting activities and processing programs are planned across the flax growing community this summer.  Reach out to the Rust Belt Fibershed, the PA Flax Project, the North American Linen Association or Contemporary Craft to learn more.
+With enthusiasm a community of flax growers have planted seed provided by Rust Belt Fibershed, the PA Flax Project and others in demonstration plots across our communities.  This WQED documentary features Contemporarty Craft, community artists and fiber shed members co-produced by Molly Tighe, an Archivist at WQED, and a 2025 Linen Project Cohort member. Harvesting activities and processing programs are planned across the flax growing community this summer.  Reach out to the Rust Belt Fibershed, the PA Flax Project, the North American Linen Association, Contemporary Craft, or natural fiber Tuscarora Mills to learn more.
 
 [^1]: Rustbeltfibershed (2025).
 [^2]: Macmaster, Richard. (2009). Scotch-Irish Mercahants in Colonial America. Ulster Historical Foundation. p.x.
